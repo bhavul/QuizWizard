@@ -141,7 +141,7 @@
 
 
 									
-
+											//editr '10' below to change the number of questions that will appear in the quiz.
 											for($i=0;$i<10;$i++){
 												$quesno = $question_numbers[$i];
 												
