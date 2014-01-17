@@ -1,0 +1,66 @@
+body {
+
+	background:#22DD8B;
+}
+
+h1 {
+	color: #FFEDED;
+	text-align: center;
+	font-family: arial;
+	text-shadow: 0 0 3px #556;
+	font-size: 60px;
+}
+
+
+.countdown.simple {
+	background: #EC1212;
+	color: white;
+	padding: 0.3em 0em;
+	border: 2px solid #ECF0F1;
+	font-size: 24px;
+	width: 10%;
+	text-align: center;
+	position: fixed;
+	right: 5px;
+	top: 5px;
+}
+
+
+#question {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #FFF;
+	color: #2C3E50;
+	padding: 0.5em;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	box-shadow: 0 0 3px #556;
+}
+
+input[type="submit"]{
+	text-align: center;
+	width: 200px;
+	background: #34495E;
+	border: none;
+	box-shadow: none;
+	height: 50px;
+	font-size: 30px;
+	color: #FFF;
+	width: 200px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 5px
+
+}
+
+input[type="submit"]:hover{
+	background: #466481;
+	cursor: pointer;
+}
+
+input[type="submit"]:active{
+	background: #2C3E50;
+	cursor: pointer;
+}

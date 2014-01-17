@@ -1,0 +1,36 @@
+body {
+	background:#22DD8B;
+}
+
+h1 {
+	color: #FFEDED;
+	text-align: center;
+	font-family: arial;
+	text-shadow: 0 0 3px #556;
+	font-size: 60px;
+}
+
+#finalScore {
+
+	width: 40%;
+	font-size: 40px;
+	background: #FFF;
+	padding: 0.5em;
+	box-shadow: 0 0 3px #556;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: #B10909;
+	font-weight: bold;
+	font-family: helvetica;
+
+}
+
+#finalResult {
+	font-size: 30px;
+	color: #FFF;
+	text-shadow: 0 0 5px #556;
+	text-align: center;
+	margin-top: 20px;
+	font-weight: bold;
+}

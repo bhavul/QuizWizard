@@ -1,0 +1,83 @@
+body {
+	background:#22DD8B;
+	text-align: center;
+}
+
+h1 {
+	color: #FFEDED;
+	text-align: center;
+	font-family: arial;
+	text-shadow: 0 0 3px #556;
+	font-size: 60px;
+}
+
+form {
+	padding: 50px;
+	background: white;
+	width: 500px;
+	box-shadow: 0 0 3px #556;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 0%;
+}
+
+form table {
+	border: none;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+form table tr {
+	padding: 10px 0;
+}
+
+form table tr label {
+	font-family: Open Sans, Helvetica;
+	font-size: 28px;
+	font-weight: bold;
+	color:#444;
+}
+
+
+form table tr input {
+	background-color:#DDD;
+	border-radius:5px;
+	border: none;
+	border:1px solid black;
+	height: 30px;
+}
+
+.button {
+	width:100px;
+	height: 30px;
+	background:#64F0AD;
+	border:1px solid #817474;
+	border-radius: 5px;
+}
+
+.button:hover {
+	background:#88FFC6;
+	cursor: pointer;
+}
+
+.button:active {
+	background:#51CC91;
+	cursor: pointer;
+}
+
+
+a {
+	color:#222;
+}
+
+
+form h1 {
+	margin: none;
+	border:none;
+	font-family: Arial;
+	font-size: 35px;
+	color:#664C86;
+	text-shadow:none;
+}

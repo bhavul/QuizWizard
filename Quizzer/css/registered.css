@@ -1,0 +1,46 @@
+body {
+	background:#22DD8B;
+	text-align: center;
+}
+
+p{
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: #FFEDED;
+	text-align: center;
+	font-family: arial;
+	text-shadow: 0 0 3px #556;
+	font-size: 60px;
+}
+
+#success {
+	color: #2C3E50;
+	text-shadow: 0 0 1px #49494E;
+	font-size: 30px;
+	margin-bottom: 20px;
+	font-weight: bold;
+
+}
+
+
+#box {
+	background:white;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 0 3px #556;
+	padding: 0.5em;
+	font-size: 35px;
+	font-weight: bold;
+	color: #8B1B1B;
+
+}
+
+h3 {
+	color:#333;
+}
+
+
