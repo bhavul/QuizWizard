@@ -4,9 +4,9 @@ SimplePhpQuizzer
 Takes a quiz of randomly chosen 10 questions from the bank of questions. Stores database of users and their details who gave it. This is a pretty simple project I took up myself just to get my hands dirty with PHP.
 
 
-The project is on pause as of now. I'll get back to this when I'm free or done with a bigger project that I'm currently going on with. 
+The project is on pause as of now, while I am busy with other work in college. I'll get back to this soon to include the features I've mentioned below that are missing right now. 
 
-Anyone who wishes to contribute can do so.
+Anyone who wishes to contribute may do so.
 
 
 Current Features
