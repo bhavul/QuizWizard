@@ -1,4 +1,4 @@
-SimplePhpQuizzer
+Quiz Wizard
 ================
 
 Takes a quiz of randomly chosen 10 questions from the bank of questions. Stores database of users and their details who gave it. This is a pretty simple project I took up myself just to get my hands dirty with PHP.
